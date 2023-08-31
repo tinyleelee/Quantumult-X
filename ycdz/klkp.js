@@ -23,7 +23,7 @@ hostname = ig.api.pangbaoapp.com
 
 *******************************/
 
-var body = $response.body.replace(/"nickName":".*?"/g,'"nickName":"彭于晏crack"')
+var body = $response.body.replace(/"nickName":".*?"/g,'"nickName":"欲言又止我还是走吧"')
 .replace(/"memberFlag":false/g,'"memberFlag":true')
 .replace(/"memberExpireDay":null/g,'"memberExpireDay":"2099-11-11"')
 $done({ body });

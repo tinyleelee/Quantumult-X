@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^http[s]?:\/\/ig.api.pangbaoapp.com\/ig-social-phobia-api\/api\/user\/getUserInfo.do url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/klkp.js
+^http[s]?:\/\/ig.api.pangbaoapp.com\/ig-social-phobia-api\/api\/user\/getUserInfo.do url script-response-body https://raw.githubusercontent.com/tinyleelee/Quantumult-X/main/ycdz/klkp.js
 
 [mitm] 
 
